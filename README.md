@@ -1,4 +1,5 @@
 # r_htcondor
+Developers: Erick Garcia, Alejandro Gómez
 R scripts for execute in condor
 
 SRC R.tar.gz
